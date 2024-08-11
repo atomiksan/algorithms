@@ -1,4 +1,4 @@
-#include <climits>
+#include<climits>
 #include<iostream>
 
 int main(){
